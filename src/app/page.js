@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <div className="text-blue-700">Artbridge</div>
+      <div className="text-blueLight-blue40 h1">Artbridge</div>
     </main>
   );
 }
